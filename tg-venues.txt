@@ -1,0 +1,5 @@
+Dixon-Eilers,9
+Anderson,150
+Bit Pit,30
+Stadium,400
+Schaller,200
